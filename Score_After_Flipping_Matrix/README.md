@@ -23,3 +23,9 @@ Return the highest possible score.
 1. 1 <= A.length <= 20
 2. 1 <= A[0].length <= 20
 3. A[i][j] is 0 or 1.
+
+---
+## Results  
+
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Score After Flipping Matrix.  
+Memory Usage: 8.7 MB, less than 100.00% of C++ online submissions for Score After Flipping Matrix.
