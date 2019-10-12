@@ -9,8 +9,10 @@ Return the root node of a binary search tree that matches the given preorder tra
 
     Input: [8,5,1,7,10,12]
     Output: [8,5,10,1,7,null,12]
-    ![](https://assets.leetcode.com/uploads/2019/03/06/1266.png)
- 
+
+
+![](https://assets.leetcode.com/uploads/2019/03/06/1266.png)  
+
 
 **Note:**  
 
